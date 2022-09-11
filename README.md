@@ -27,6 +27,12 @@
 * Therefore, it can process data and visualize it at the same time.
 * If anaconda is installed, no need for installation .
 
+```
+import matplotlib.pyplot as plt
+import pandas as pd
+from pandas import DataFrame
+from pandas import Series
+```
 
 #### # Data Analysis Process and Visualization
 
