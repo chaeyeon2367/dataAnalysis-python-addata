@@ -1,8 +1,10 @@
+<br/>
+<br/>
+
 # **Data analysis using advertising data**
 
-
-
-
+<br/>
+<br/>
 
 ### 1. Domain knowledge for marketing data analysis
 
@@ -25,6 +27,7 @@
 * Therefore, it can process data and visualize it at the same time.
 * If anaconda is installed, no need for installation .
 
+
 #### # Data Analysis Process and Visualization
 
 - the process of machine learning
@@ -33,6 +36,7 @@
   3. Data exploration & visualization
   4. Model slection
   5. Model evaluation and application
+
 
 
 #### # the need for visualization
