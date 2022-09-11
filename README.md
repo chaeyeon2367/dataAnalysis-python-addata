@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-# **Data analysis using advertising data**
+# **Data analysis using advertising data** &#128171;
 
 <br/>
 <br/>
